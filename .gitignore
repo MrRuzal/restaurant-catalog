@@ -170,3 +170,5 @@ media/
 
 # pre-commit
 .pre-commit-config.yaml
+
+staticfiles/
